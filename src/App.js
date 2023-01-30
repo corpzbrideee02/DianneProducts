@@ -10,7 +10,7 @@ class App extends Component {
             <React.Fragment>
                 <Navbar />
                 <Routes>
-                    <Route exact path='/home' element={<Home />} />
+                    <Route exact path='/' element={<Home />} />
                     <Route exact path='/Cart' element={<Cart />} />
                 </Routes>
             </React.Fragment>
