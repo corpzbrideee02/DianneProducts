@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/DianneProducts/static/css/main.3ed22846.chunk.css",
-    "main.js": "/DianneProducts/static/js/main.da7397f6.chunk.js",
-    "main.js.map": "/DianneProducts/static/js/main.da7397f6.chunk.js.map",
-    "runtime-main.js": "/DianneProducts/static/js/runtime-main.fd0486ee.js",
-    "runtime-main.js.map": "/DianneProducts/static/js/runtime-main.fd0486ee.js.map",
-    "static/js/2.b4cd6f5b.chunk.js": "/DianneProducts/static/js/2.b4cd6f5b.chunk.js",
-    "static/js/2.b4cd6f5b.chunk.js.map": "/DianneProducts/static/js/2.b4cd6f5b.chunk.js.map",
-    "index.html": "/DianneProducts/index.html",
-    "static/css/main.3ed22846.chunk.css.map": "/DianneProducts/static/css/main.3ed22846.chunk.css.map",
-    "static/js/2.b4cd6f5b.chunk.js.LICENSE.txt": "/DianneProducts/static/js/2.b4cd6f5b.chunk.js.LICENSE.txt"
+    "main.css": "/DianneProducts/home/static/css/main.3ed22846.chunk.css",
+    "main.js": "/DianneProducts/home/static/js/main.5d820d03.chunk.js",
+    "main.js.map": "/DianneProducts/home/static/js/main.5d820d03.chunk.js.map",
+    "runtime-main.js": "/DianneProducts/home/static/js/runtime-main.35eebcd6.js",
+    "runtime-main.js.map": "/DianneProducts/home/static/js/runtime-main.35eebcd6.js.map",
+    "static/js/2.b4cd6f5b.chunk.js": "/DianneProducts/home/static/js/2.b4cd6f5b.chunk.js",
+    "static/js/2.b4cd6f5b.chunk.js.map": "/DianneProducts/home/static/js/2.b4cd6f5b.chunk.js.map",
+    "index.html": "/DianneProducts/home/index.html",
+    "static/css/main.3ed22846.chunk.css.map": "/DianneProducts/home/static/css/main.3ed22846.chunk.css.map",
+    "static/js/2.b4cd6f5b.chunk.js.LICENSE.txt": "/DianneProducts/home/static/js/2.b4cd6f5b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd0486ee.js",
+    "static/js/runtime-main.35eebcd6.js",
     "static/js/2.b4cd6f5b.chunk.js",
     "static/css/main.3ed22846.chunk.css",
-    "static/js/main.da7397f6.chunk.js"
+    "static/js/main.5d820d03.chunk.js"
   ]
 }
