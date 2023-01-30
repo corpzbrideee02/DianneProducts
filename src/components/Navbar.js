@@ -65,7 +65,7 @@ class Navbar extends Component {
                 open={Boolean(this.state.setAnchorEl)}
                 onClose={this.handleClose}
               >
-                <Link to="/" className="" style={{ textDecoration: "none" }}>
+                <Link to="/home" className="" style={{ textDecoration: "none" }}>
                   <MenuItem onClick={this.handleClose}>Products</MenuItem>
                 </Link>
                 <Link
