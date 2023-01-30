@@ -6,7 +6,7 @@ export const theme = createTheme({
     MuiButton: {
       styleOverrides: {
         contained: {
-          color: "rgb(229, 247, 60)",
+          color: "#e7feff",
           background: "linear-gradient(#6774ad 90%, #5262ab 30%)",
           width: "50%",
           height: "50px",
@@ -18,7 +18,7 @@ export const theme = createTheme({
     MuiToolbar: {
       styleOverrides: {
         root: {
-          color: "rgb(229, 247, 60)",
+          color: "#e7feff",
           backgroundColor: "#1b2345",
         },
       },
