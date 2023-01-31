@@ -6,6 +6,7 @@ import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import IconButton from "@mui/material/IconButton";
 import AccountCircle from "@mui/icons-material/AccountCircle";
+import LinkedCameraIcon from '@mui/icons-material/LinkedCamera';
 import MenuItem from "@mui/material/MenuItem";
 import Menu from "@mui/material/Menu";
 
@@ -35,10 +36,12 @@ class Navbar extends Component {
               aria-label="menu"
               sx={{ mr: 2 }}
             ></IconButton>
-            <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              Dianne's Products{" "}
-            </Typography>
-
+            
+              <LinkedCameraIcon />
+              <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+                123Click{" "}
+              </Typography>
+           
             <div>
               <IconButton
                 size="large"
