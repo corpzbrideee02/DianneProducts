@@ -40,7 +40,7 @@ export const products = [
     "meta_description": "Sony Alpha 7 IV Mirrorless Camera with 28-70mm Lens Kit \n",
     "primary_image": {
       "description": "Sony Alpha 7 IV full-frame mirrorless camera",
-      "url_standard": "https://corpzbrideee02.github.io/images123click/sony_alpha7.jpg"
+      "url_standard": "https://corpzbrideee02.github.io/images123click/sony_alpha7.png"
     },
   },
   {
@@ -54,7 +54,7 @@ export const products = [
     "meta_description": "Panasonic LUMIX G7 Mirrorless Camera w/ 45-150mm Lens Kit \n",
     "primary_image": {
       "description": "Panasonic LUMIX G7 Mirrorless Camera",
-      "url_standard": "https://corpzbrideee02.github.io/images123click/panasonic_lumix7.jpg"
+      "url_standard": "https://corpzbrideee02.github.io/images123click/panasonic_lumix7.png"
     },
   },
   {
@@ -68,7 +68,7 @@ export const products = [
     "meta_description": "Nikon Z50 Mirrorless Camera w/ NIKKOR Z DX 16-50mm Lens Kit\n",
     "primary_image": {
       "description": "Nikon Z50 Mirrorless Camera",
-      "url_standard": "https://corpzbrideee02.github.io/images123click/nikon_z50.jpg"
+      "url_standard": "https://corpzbrideee02.github.io/images123click/nikon_z50.png"
     },
   },
   {
@@ -82,7 +82,7 @@ export const products = [
     "meta_description": "Canon EOS M50 Mark II Mirrorless Camera w/ 15-45mm IS Lens Kit\n",
     "primary_image": {
       "description": "Canon EOS M50 Mark II Mirrorless Camera",
-      "url_standard": "https://corpzbrideee02.github.io/images123click/canon_eos_m50.jpg"
+      "url_standard": "https://corpzbrideee02.github.io/images123click/canon_eos_m50.png"
     },
   }
 
