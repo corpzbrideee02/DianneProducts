@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/DianneProducts/static/css/main.3ed22846.chunk.css",
-    "main.js": "/DianneProducts/static/js/main.5745d29c.chunk.js",
-    "main.js.map": "/DianneProducts/static/js/main.5745d29c.chunk.js.map",
+    "main.css": "/DianneProducts/static/css/main.eb18a2ed.chunk.css",
+    "main.js": "/DianneProducts/static/js/main.d3f6668f.chunk.js",
+    "main.js.map": "/DianneProducts/static/js/main.d3f6668f.chunk.js.map",
     "runtime-main.js": "/DianneProducts/static/js/runtime-main.fd0486ee.js",
     "runtime-main.js.map": "/DianneProducts/static/js/runtime-main.fd0486ee.js.map",
-    "static/js/2.4edd481f.chunk.js": "/DianneProducts/static/js/2.4edd481f.chunk.js",
-    "static/js/2.4edd481f.chunk.js.map": "/DianneProducts/static/js/2.4edd481f.chunk.js.map",
+    "static/js/2.9592da37.chunk.js": "/DianneProducts/static/js/2.9592da37.chunk.js",
+    "static/js/2.9592da37.chunk.js.map": "/DianneProducts/static/js/2.9592da37.chunk.js.map",
     "index.html": "/DianneProducts/index.html",
-    "static/css/main.3ed22846.chunk.css.map": "/DianneProducts/static/css/main.3ed22846.chunk.css.map",
-    "static/js/2.4edd481f.chunk.js.LICENSE.txt": "/DianneProducts/static/js/2.4edd481f.chunk.js.LICENSE.txt"
+    "static/css/main.eb18a2ed.chunk.css.map": "/DianneProducts/static/css/main.eb18a2ed.chunk.css.map",
+    "static/js/2.9592da37.chunk.js.LICENSE.txt": "/DianneProducts/static/js/2.9592da37.chunk.js.LICENSE.txt",
+    "static/media/finalLogo.d0e952ea.png": "/DianneProducts/static/media/finalLogo.d0e952ea.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fd0486ee.js",
-    "static/js/2.4edd481f.chunk.js",
-    "static/css/main.3ed22846.chunk.css",
-    "static/js/main.5745d29c.chunk.js"
+    "static/js/2.9592da37.chunk.js",
+    "static/css/main.eb18a2ed.chunk.css",
+    "static/js/main.d3f6668f.chunk.js"
   ]
 }
