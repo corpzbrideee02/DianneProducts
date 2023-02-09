@@ -1,3 +1,22 @@
+html,body{
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
+#label1, #label2{
+    font-family: 'Satisfy', cursive;
+}
+
+#grad {
+    background-image: linear-gradient( #8b93b8,#e7feff);
+    height: 100vh;
+    margin:0;
+   /*  width: 100vw;
+    height: 100vh;
+    padding: 0; */
+  }
+
 .homeContainer{
     text-align: center;
 }
