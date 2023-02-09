@@ -15,7 +15,7 @@ function Home() {
           alignItems="center"
         >
           <div>
-            <img src={Logo} width="300" />
+            <img src={Logo} width="300" alt="123click Logo"/>
           </div>
           <div> <Typography variant="h4" component="h2" align="center" color="text.secondary" id="label1">
             {'Mirrorless camera online purchasing.'}<br />
